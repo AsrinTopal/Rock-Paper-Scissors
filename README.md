@@ -22,7 +22,7 @@ On collision, shapes interact according to Rock-Paper-Scissors rules and switch 
     ```python
     pip install pygame
     ```
-    ## Usage
+## Usage
 
 To run the game, simply execute the following command:
 
@@ -51,7 +51,7 @@ python main.py
     return rect1.colliderect(rect2)
     ```
 ## Demo
-
+![ezgif com-video-to-gif-converter](https://github.com/AsrinTopal/Rock-Paper-Scissors/assets/42512374/10fbb414-5076-42b1-8709-267ba955e9d9)
 
 ## Authors
 

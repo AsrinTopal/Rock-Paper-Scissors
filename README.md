@@ -22,6 +22,12 @@ On collision, shapes interact according to Rock-Paper-Scissors rules and switch 
     ```python
     pip install pygame
     ```
+    OR
+
+    ```python
+    pip install -r requirements.txt
+    ```
+    
 ## Usage
 
 To run the game, simply execute the following command:

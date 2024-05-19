@@ -62,7 +62,7 @@ python main.py
 ## Authors
 
 - [@AsrinTopal](https://www.github.com/AsrinTopal)
-- [@MehmetEminTurkkal](https://github.com/RHShank)
+- [@MehmetEminTurkkal](https://github.com/TRKKL)
 
 ## Badges
 

@@ -1,0 +1,22 @@
+
+
+
+PYTHON = python3
+PIP = $(PYTHON) -m pip
+PYGAME_INSTALL = $(PIP) install pygame
+
+
+all: install run
+
+install:
+	$(PYGAME_INSTALL)
+
+run:
+	$(PYTHON) game.py
+
+clean:
+	rm -f Images/*.png
+	rm -rf __pycache__/
+	rm -f game.log
+
+.PHONY: all install run clean

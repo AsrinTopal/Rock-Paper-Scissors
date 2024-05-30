@@ -17,7 +17,7 @@ On collision, shapes interact according to Rock-Paper-Scissors rules and switch 
 
 2. **Install the required dependencies:**
 
-    Make sure you have Python and Pygame installed. You can install Pygame using pip:
+    Make sure you have Python (version 3.12.3) and Pygame (2.5.2) installed. You can install Pygame using pip:
 
     ```python
     pip install pygame
